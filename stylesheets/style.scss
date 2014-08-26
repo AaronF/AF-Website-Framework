@@ -1,0 +1,14 @@
+/**
+ * Main stylesheet
+ * Add any imports to this file - compiled to stylesheets/style.css
+ *
+ * sass --watch stylesheets/style.scss:stylesheets/style.css
+ */
+
+//Base Skeleton CSS files (/stylesheets/skeleton)
+@import "skeleton/base";
+@import "skeleton/layout";
+@import "skeleton/skeleton";
+
+//UI css (/stylesheets/ui)
+@import "ui/header";
