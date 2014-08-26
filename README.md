@@ -2,6 +2,12 @@
 
 I created a Sass version of the Skeleton CSS framework ([http://www.getskeleton.com/](http://www.getskeleton.com/)).
 
+##Setup
+Watch the stylsheets folder
+```
+sass --watch stylesheets/style.scss:stylesheets/style.css
+```
+
 ##Structure
 ```
 stylesheets
