@@ -817,3 +817,15 @@ or wrap each row of columns in a <div class="row"> */
   visibility: hidden;
   width: 0;
   height: 0; }
+
+/**
+ * CSS Elements
+ */
+html, body {
+  background-color: #f0f0f0; }
+
+.left {
+  float: left; }
+
+.right {
+  float: right; }

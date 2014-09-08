@@ -10,6 +10,22 @@
 @import "skeleton/layout";
 @import "skeleton/skeleton";
 @import "skeleton/variables";
+@import "skeleton/mixins";
 
 //UI css (/stylesheets/ui)
 @import "ui/header";
+
+/**
+ * CSS Elements
+ */
+html, body {
+	background-color: #f0f0f0;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
