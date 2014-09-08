@@ -18,6 +18,7 @@ stylesheets
 	+layout
 	+skeleton
 	+variables
+	+mixins
 |--ui
 	+header
 	+etc
