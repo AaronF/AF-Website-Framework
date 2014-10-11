@@ -1,4 +1,4 @@
-#Website Framework
+#Website Framework 1.0
 
 This is my website framework that I base most of my new projects from, it includes pretty much everything I need to get starte. Some of the CSS is based from Inuit, Bootstrap and Skeleton CSS.
 
