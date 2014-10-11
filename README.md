@@ -10,8 +10,8 @@ sass --watch stylesheets/style.scss:stylesheets/style.css
 
 ##Structure
 ```
-|--bower_components
-	+jquery
+bower_components
++jquery
 stylesheets
 +style.scss
 +style.css (compiled)
