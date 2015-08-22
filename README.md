@@ -1,30 +1,12 @@
-#Website Framework 1.0
+#Website Starter Pack 1.1
 
-This is my website framework that I base most of my new projects from, it includes pretty much everything I need to get starte. Some of the CSS is based from Inuit, Bootstrap and Skeleton CSS.
+This is my website 'starter pack' that I base most of my new projects from, it includes pretty much everything I need to get started. This uses Bootstrap (3) as a base.
 
 ##Setup
-Watch the stylsheets folder
-```
-sass --watch stylesheets/style.scss:stylesheets/style.css
-```
+Watch the assets/css folder
 
-##Structure
-```
-bower_components
-+jquery
-stylesheets
-+style.scss
-+style.css (compiled)
-|--skeleton
-	+base
-	+layout
-	+skeleton
-	+variables
-	+mixins
-	+elements
-|--ui
-	+header
-	+etc
-```
+##Changelog
 
-All of the main Skeleton CSS files are found in the skeleton folder. You can add your own UI files into the UI folder and import them into the style.scss file found in the main stylesheets folder.
+#1.1
+-Changed to use Bootstrap
+-Moved all of the CSS, JS, Images etc to the /assets folder (keeping things tidy)
