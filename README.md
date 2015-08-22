@@ -8,5 +8,5 @@ Watch the assets/css folder
 ##Changelog
 
 #1.1
--Changed to use Bootstrap
--Moved all of the CSS, JS, Images etc to the /assets folder (keeping things tidy)
+-   Changed to use Bootstrap
+-   Moved all of the CSS, JS, Images etc to the /assets folder (keeping things tidy)
