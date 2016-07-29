@@ -1,5 +1,5 @@
 /**
- * Website Starter Pack 1.1 (aaronfisher.co)
+ * Website Starter Pack 1.2 (aaronfisher.co)
  * Main stylesheet
  * Add any imports to this file - compiled to css/style.css
  */
@@ -21,4 +21,26 @@ html, body {
 
 .right {
 	float: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/**
+ * Responsive line breaks
+ */
+.rwd-line {
+	display: inline;
+	@media screen and (max-width: $break-small){
+		display: block;
+	}
 }
